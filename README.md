@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhildev
-- 🌱 I’m currently learning Kotlin and Go
-- 💞️ I’m looking to collaborate on React projects and backend APIs
+- 🌱 I’m currently learning Bazel and Go
+- 💞️ I’m looking to collaborate on writing on large monorepos using Bazel and Go
 - 📫 How to reach me at https://www.linkedin.com/in/nikhildev/
 
 <!---
